@@ -1,2 +1,2 @@
-# system-design-workbook
+# System Design Workbook
 System design workbook
